@@ -10,7 +10,7 @@
 
 
 
-![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
+![Grafo](https://culturacion.com/wp-content/uploads/2018/12/redes-neuronales-1280x720.jpg)
 
 Bibliografía
 <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
