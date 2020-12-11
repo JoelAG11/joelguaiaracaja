@@ -5,7 +5,7 @@
 
 <img src=(https://cdn2.hubspot.net/hubfs/273205/11HiRes.jpg) alt="Red neuronal">
 
-![Grafo](https://www.madrimasd.org/blogs/matematicas/files/2012/09/Network_representation_of_brain_connectivity.jpg)
+![Grafo](https://cdn2.hubspot.net/hubfs/273205/11HiRes.jpg)
 
 
 
